@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05120bc7-7da1-47e3-b71d-d8b951e39b16" name="Changes" comment="ファーストコミット">
-      <change afterPath="$PROJECT_DIR$/get_request.py" afterDir="false" />
+    <list default="true" id="05120bc7-7da1-47e3-b71d-d8b951e39b16" name="Changes" comment="今日はpostを作ったのでcommit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,26 +22,27 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2qUP2PBdRrlR43LBvIDAbh9HPqH" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.get_request.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.20241224_post_requests.executor&quot;: &quot;Run&quot;,
+    &quot;Python.get_request.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration name="get_request" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="20241224_post_requests" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,7 +55,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_request.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20241224_post_requests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +92,39 @@
       <option name="project" value="LOCAL" />
       <updated>1734800269477</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="get_request.pyを作り動かしたのでコミット">
+      <option name="closed" value="true" />
+      <created>1734835707388</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734835707388</updated>
+    </task>
+    <task id="LOCAL-00003" summary="post_requests.pyを作ったので、commit">
+      <option name="closed" value="true" />
+      <created>1734965970354</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734965970354</updated>
+    </task>
+    <task id="LOCAL-00004" summary="今日のrequestsを作ったのでcommit">
+      <option name="closed" value="true" />
+      <created>1735003731288</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735003731288</updated>
+    </task>
+    <task id="LOCAL-00005" summary="今日はpostを作ったのでcommit">
+      <option name="closed" value="true" />
+      <created>1735011509208</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735011509208</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,7 +152,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ファーストコミット" />
-    <option name="LAST_COMMIT_MESSAGE" value="ファーストコミット" />
+    <MESSAGE value="get_request.pyを作り動かしたのでコミット" />
+    <MESSAGE value="post_requests.pyを作ったので、commit" />
+    <MESSAGE value="今日のrequestsを作ったのでcommit" />
+    <MESSAGE value="今日はpostを作ったのでcommit" />
+    <option name="LAST_COMMIT_MESSAGE" value="今日はpostを作ったのでcommit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
